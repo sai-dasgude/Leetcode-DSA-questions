@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saidasgude11work-sudo/DSA-450/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
