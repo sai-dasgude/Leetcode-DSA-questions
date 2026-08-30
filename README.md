@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saidasgude11work-sudo/DSA-450/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
