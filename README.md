@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
