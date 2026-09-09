@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
 
     private int[] dp;
@@ -16,12 +14,10 @@ class Solution {
     }
 
     private int solve(int index) {
-        // We can start from stair 0 or stair 1
         if (index <= 1) {
             return 0;
         }
 
-        // Answer already calculated
         if (dp[index] != -1) {
             return dp[index];
         }
