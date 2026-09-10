@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
+| [1137-n-th-tribonacci-number](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -41,8 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
