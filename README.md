@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0189-rotate-array) |
 | [1137-n-th-tribonacci-number](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1137-n-th-tribonacci-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0213-house-robber-ii) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
