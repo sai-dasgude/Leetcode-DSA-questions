@@ -75,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1463-cherry-pickup-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
