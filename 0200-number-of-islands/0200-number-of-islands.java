@@ -17,14 +17,7 @@ class Solution {
                         int j = temp[1];
                         
 
-                        // int[] topleft = {i-1 , j-1};
-                        // if(topleft[0] >=0 && topleft[1]>=1){
-                        //     if(isVisited[i-1][j-1]==0 && grid[i-1][j-1]=='1'){
-                        //         queue.offer(topleft);
-                        //         isVisited[i-1][j-1] = 1;
-                        //     }
-                        // }
-
+                      
                         int[] top = {i-1 , j};
                         if(top[0]>= 0){
                             if(isVisited[i-1][j]==0 && grid[i-1][j]=='1'){
@@ -33,14 +26,7 @@ class Solution {
                             }
                         }
 
-                        // int[] topright = {i-1 , j+1};
-                        // if(topright[0] >= 0 && topright[1] < grid[0].length){
-                        //     if(isVisited[i-1][j+1]==0 && grid[i-1][j+1]=='1'){
-                        //         queue.offer(topright);
-                        //         isVisited[i-1][j+1] = 1;
-                        //     }
-                        // }
-
+                    
                         int[] left = {i , j-1};
                         if(left[1]>=0){
                             if(isVisited[i][j-1]==0 && grid[i][j-1]=='1'){
@@ -57,14 +43,6 @@ class Solution {
                             }
                         }
 
-                        // int[] bottomleft = {i+1 , j-1};
-                        // if(bottomleft[0] < grid.length && bottomleft[1] >= 0){
-                        //     if(isVisited[i+1][j-1]==0 && grid[i+1][j-1]=='1'){
-                        //         queue.offer(bottomleft);
-                        //         isVisited[i+1][j-1] = 1;
-                        //     }
-                        // }
-
                         int[] bottom = {i+1 , j};
                         if(bottom[0]<grid.length){
                             if(isVisited[i+1][j]==0 && grid[i+1][j]=='1'){
@@ -72,14 +50,6 @@ class Solution {
                                 isVisited[i+1][j]=1;
                             }
                         }
-
-                        // int[] bottomright = {i+1 , j+1};
-                        // if(bottomright[0] < grid.length && bottomright[1] < grid[0].length){
-                        //     if(isVisited[i+1][j+1]==0 && grid[i+1][j+1]=='1'){
-                        //         queue.offer(bottomright);
-                        //         isVisited[i+1][j+1]=1;
-                        //     }
-                        // }
 
                       }
 
