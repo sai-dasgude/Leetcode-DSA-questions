@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/saidasgude11work-sudo/Leetcode-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
